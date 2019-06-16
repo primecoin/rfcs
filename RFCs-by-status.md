@@ -8,6 +8,7 @@ A list of all RFCs by their current status.
 ## Proposed RFCs
 
  - [#0001 Primecoin Block Hash Fermat Test](./text/0001-blockhash-fermat.md)
+ - [#0002 Primecoin Transaction Fee Model](./text/0002-tx-fee-destroy.md)
 
 ## Agreed RFCs
 
@@ -19,4 +20,4 @@ A list of all RFCs by their current status.
 
 
 
-(Last updated _Sun Jun 16 09:24:16 UTC 2019_ at REV [ddc2017](https://github.com/primecoin/rfcs/commit/ddc2017eaf664f1643ea25264fcfc64bd8fc2ed3))
+(Last updated _Sun Jun 16 10:50:07 UTC 2019_ at REV [757acbe](https://github.com/primecoin/rfcs/commit/757acbe50dca6fafdfdc6c69191134ffaf0fdafd))
